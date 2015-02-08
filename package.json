@@ -1,0 +1,19 @@
+{
+  "name": "koa-lastfm",
+  "version": "0.1.0",
+  "description": "A simple API gateway experimet in koa.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "co": "^4.3.1",
+    "koa": "^0.17.0",
+    "koa-router": "^3.8.0",
+    "lodash": "^3.1.0",
+    "superagent": "^0.21.0"
+  }
+}
